@@ -1,5 +1,6 @@
 # sina-hr-server
-新浪HR简历管理CMS系统后端部分
+新浪HR简历管理CMS系统后端部分<br />
+文档地址：[https://www.kancloud.cn/ghost_king/sina](https://www.kancloud.cn/ghost_king/sina)
 ## 版本
 ThinkPHP 5.1
 ## Server 端必备环境
