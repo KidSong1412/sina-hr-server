@@ -43,4 +43,4 @@ php think run --port 5000 //启动thinkPHP内置的Web服务器
 ThinkPHP Development server is started On <http://127.0.0.1:5000/>
 You can exit with `CTRL-C`
 ```
-打开浏览器，访问``http://127.0.0.1:5000``，你会看到一个欢迎界面，至此，sina-hr-server部署完毕，可搭配[sina-hr-surface]()使用了。
+打开浏览器，访问``http://127.0.0.1:5000``，你会看到一个欢迎界面，至此，sina-hr-server部署完毕，可搭配[sina-hr-surface](https://github.com/KidSong1412/sina-hr-surface)使用了。
